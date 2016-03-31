@@ -1,0 +1,26 @@
+#header {
+    margin: 30px;
+    border-radius: 25px;
+    padding: 25px; 
+    background-color: orange;
+    border: 5px solid black;
+    opacity: 0.9;
+   
+}
+#box {
+    text-align: center;
+}
+
+#list {
+    font-weight: bold;
+    margin: 30px;
+    background-color: orange;
+    border-radius: 25px;
+    opacity: 0.7;
+    filter: alpha(opacity=60);
+}
+
+body {
+    color: black;
+    background-image: url("http://www.zastavki.com/pictures/originals/2013/Music__038390_.jpg");
+}
